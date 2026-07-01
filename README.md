@@ -1,4 +1,4 @@
-# 📱 Exercicios_em_Android_Studio
+# 📱 Exercicios em Android Studio
 
 Este repositório contém o mapeamento, a estruturação cronológica e os scripts de implementação prática para o ecossistema de aprendizado e consolidação de desenvolvimento mobile nativo utilizando o Android Studio e a linguagem Kotlin.
 
