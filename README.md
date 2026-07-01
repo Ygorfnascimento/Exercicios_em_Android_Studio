@@ -31,8 +31,8 @@ Os módulos estão divididos para refletir a evolução contínua em arquitetura
 ## 🚀 Como Executar o Projeto Localmente
 
 1. **Clonagem do Repositório:** Abra o seu terminal e execute o comando abaixo para clonar o repositório:
-   ```bash
-   git clone https://github.com/Ygorfnascimento/Exercicios_em_Android_Studio.git)
-   ```
+```bash
+   git clone https://github.com/Ygorfnascimento/Exercicios_em_Android_Studio.git
+```
 2. **Abertura do Projeto:** Inicialize o Android Studio, selecione a opção Open e aponte para a pasta raiz do módulo mensal específico que deseja executar.
 3. **Sincronização e Execução:** Aguarde a indexação e o Gradle Sync baixarem as dependências. Conecte um emulador ou dispositivo físico e pressione Shift + F10 (ou o botão de play) para compilar.
